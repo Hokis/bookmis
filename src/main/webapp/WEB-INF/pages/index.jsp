@@ -9,7 +9,7 @@
 <html>
 <head>
     <title>查找图书资料</title>
-    <script src="/static/jquery.min.js"></script>
+    <script src="../static/jquery.min.js"></script>
 
     <script type="text/javascript">
         $(document).ready(function (e) {
